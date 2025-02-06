@@ -1,0 +1,10 @@
+# Function to calculate the sum of two numbers
+def add_numbers(num1, num2):
+    return num1 + num2
+
+# Example usage
+number1 = 5
+number2 = 3
+
+sum_result = add_numbers(number1, number2)
+print("The sum is:", sum_result)
